@@ -1,6 +1,7 @@
+
 import React from 'react';
 import Section from './ui/Section';
-import { Target, Award, Heart } from 'lucide-react';
+import { Target, Heart } from 'lucide-react';
 import Reveal from './ui/Reveal';
 
 const About: React.FC = () => {
