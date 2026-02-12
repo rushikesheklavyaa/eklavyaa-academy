@@ -1,7 +1,8 @@
+
 import React, { useState } from 'react';
 import Modal from './ui/Modal';
 import Button from './ui/Button';
-import { Send, CheckCircle, AlertCircle, MessageCircle } from 'lucide-react';
+import { CheckCircle, AlertCircle, MessageCircle } from 'lucide-react';
 import { EnquiryFormData } from '../types';
 import { submitEnquiry } from '../utils/api';
 
